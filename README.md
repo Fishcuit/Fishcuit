@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fishcuit
-- 👀 I’m interested in software engineering and data science 
+- 👀 Statistcis/Informations systems major.
+- 👀 I’m interested in software engineering and data science.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fishcuit99@gmail.com
 
 <!---
