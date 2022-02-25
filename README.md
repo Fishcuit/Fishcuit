@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fishcuit
-- 👀 Statistcis/Informations systems major.
+- 👀 Statistics/Informations systems major.
 - 👀 I’m interested in software engineering and data science.
 - 🌱 I’m currently learning python
 - 📫 How to reach me fishcuit99@gmail.com
