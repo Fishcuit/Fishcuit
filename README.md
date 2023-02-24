@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Fishcuit
 - 👀 Statistics/Informations systems major.
 - 👀 I’m interested in software engineering and data science.
-- 🌱 I’m currently learning python
+- 🌱 I am currently learning C#
+- 😋 Proficient in python, javascript, html, css, reactjs, django, and other things such as latex and matlab.
 - 📫 How to reach me fishcuit99@gmail.com
 
 <!---
