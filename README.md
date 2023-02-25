@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fishcuit
+- 👋 Hi, I’m Keith.
 - 👀 Statistics/Informations systems major.
 - 👀 I’m interested in software engineering and data science.
 - 🌱 I am currently learning C#
