@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Keith.
-- 👀 Statistics/Informations systems major.
+- 👀 Statistics/Business major.
 - 👀 I’m interested in software engineering and data science.
 - 🌱 I am currently learning C#
 - 😋 Proficient in python, javascript, html, css, reactjs, django, and other things such as latex and matlab.
